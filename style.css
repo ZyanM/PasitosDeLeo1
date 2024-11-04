@@ -1,0 +1,34 @@
+.fotop{
+    width: 20%;
+    border-radius: 50%;
+}
+
+.MiHistoria{
+    font-size: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#titulo{
+    text-align: center;
+    font-size: 2;
+}
+body{
+    background: linear-gradient(rgb(67, 168, 157), rgb(21, 83, 110));
+}
+.donacion{
+    width: 70%;
+}
+
+.love{
+    color: beige;
+    font-family:sans-serif
+}
+.rolesines{
+width: 50%;
+}
+.contact_1{
+color: rgb(244, 248, 246);
+}
+h5{
+    color: azure;
+}
